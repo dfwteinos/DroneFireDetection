@@ -14,4 +14,6 @@ Dataset: We obtained images from the FireNET repository (https://github.com/Olaf
 
 This project and code is based on *BSc Thesis* for the National and Kapodistrian University of Athens (Oct. 2022).
 
+You can find my thesis here: https://pergamos.lib.uoa.gr/uoa/dl/frontend/el/browse/3236842
+
 Feel free to contribute with any kind of feedback.
